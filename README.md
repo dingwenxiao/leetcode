@@ -1,3 +1,5 @@
 # leetcode
+
 Algorithm and coding practice
-Leetcode username: pitbull_150
+---------
+Leetcode: pitbull_150
